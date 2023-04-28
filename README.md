@@ -19,7 +19,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 [gmail]: mailto:maikelordaz@gmail.com
 [telegram]: https://t.me/maikelordaz
 [linkedin]: https://www.linkedin.com/in/maikel-ordaz/
-
+<br/>
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
