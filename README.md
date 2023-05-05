@@ -20,7 +20,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 [telegram]: https://t.me/maikelordaz
 [linkedin]: https://www.linkedin.com/in/maikel-ordaz/
 <br/>
-### Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://smartcontractprogrammer.com/static/media/solidity-app.0623e708.svg"></code>
@@ -29,7 +29,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### 💗 My Favorites Techs:
+### :hammer_and_wrench: My Favorites Techs:
 
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
@@ -38,3 +38,5 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Thegraph-success)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maikelordaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
