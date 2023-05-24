@@ -40,4 +40,4 @@ Check out my CV [here](https://drive.google.com/file/d/13WnwlpzyKGudfkJItyzwMvrE
 ![](https://img.shields.io/badge/Tools-Thegraph-success)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maikelordaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maikelordaz&show_icons=true&theme=highcontrast)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maikelordaz&count_private=true&show_icons=true&theme=highcontrast)
