@@ -39,5 +39,6 @@ Check out my CV [here](https://drive.google.com/file/d/1lF2vRzgpgaDkatoS5Y9CzStR
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Thegraph-success)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maikelordaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maikelordaz&count_private=true&show_icons=true&theme=highcontrast)
+![maikelordaz's Stats](https://github-readme-stats.vercel.app/api?username=maikelordaz&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![maikelordaz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maikelordaz&theme=highcontrast&hide_border=true)
+![maikelordaz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maikelordaz&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
