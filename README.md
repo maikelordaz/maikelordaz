@@ -20,7 +20,7 @@ Check out my CV [here](https://drive.google.com/file/d/1lF2vRzgpgaDkatoS5Y9CzStR
 [telegram]: https://t.me/maikelordaz
 [linkedin]: https://www.linkedin.com/in/maikel-ordaz/
 <br/>
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://smartcontractprogrammer.com/static/media/solidity-app.0623e708.svg"></code>
@@ -29,7 +29,7 @@ Check out my CV [here](https://drive.google.com/file/d/1lF2vRzgpgaDkatoS5Y9CzStR
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### :hammer_and_wrench: My Favorites Techs:
+### My Favorites Techs:
 
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
