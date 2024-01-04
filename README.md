@@ -39,6 +39,6 @@ Check out my CV [here](https://drive.google.com/file/d/1lF2vRzgpgaDkatoS5Y9CzStR
 
 
 
-![maikelordaz's Stats](https://github-readme-stats.vercel.app/api?username=maikelordaz&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![maikelordaz's Stats](https://github-readme-stats.vercel.app/api?username=maikelordaz&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![maikelordaz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maikelordaz&theme=highcontrast&hide_border=true)
 ![maikelordaz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maikelordaz&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
