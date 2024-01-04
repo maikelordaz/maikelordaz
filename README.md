@@ -13,11 +13,9 @@ Check out my CV [here](https://drive.google.com/file/d/1lF2vRzgpgaDkatoS5Y9CzStR
 ### Connect with me:
 
 [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />][gmail]
-[<img align="left" alt="Techrate | Telegram" width="22px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" />][telegram]
 [<img align="left" alt="Techrate | Telegram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
 [gmail]: mailto:maikelordaz@gmail.com
-[telegram]: https://t.me/maikelordaz
 [linkedin]: https://www.linkedin.com/in/maikel-ordaz/
 <br/>
 ### Languages and Tools:
