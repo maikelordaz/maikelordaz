@@ -4,7 +4,7 @@ Hi, I'm 🥇[Maikel Ordaz](https://t.me/maikelordaz)🥇 , I'm a Solidity Develo
 
 My major skills are blockchain-focused development. I have good experience with Blockchain, Ethereum, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
-Check out my CV [here](https://drive.google.com/file/d/1lF2vRzgpgaDkatoS5Y9CzStRLMMxgkyc/view?usp=sharing)
+Check out my CV [here](https://drive.google.com/file/d/1FwlUzi6JpQ81GFEfeOSObCTL-l-4XJd0/view?usp=sharing)
 
  <div>
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
