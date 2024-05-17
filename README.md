@@ -1,44 +1,90 @@
-### Hello, there
+<!--suppress HtmlDeprecatedAttribute -->
+# Hello! 👋 Who am I? #
+<div>
+<br/>
+- 🔭 Smart contract developer with 2+ years of experience<br/>
+- 🌱 Proficient in solidity, hardhat, foundry<br/>
+- 👍 Experienced in Smart Contracts, Subgraphs, unit tests, fuzz tests, invariant tests<br/>
+- 😉 Learning Huff and formal verification</br>
+<br/>
 
-Hi, I'm 🥇[Maikel Ordaz](https://t.me/maikelordaz)🥇 , I'm a Solidity Developer, with experience in various fields of web 3.0, such as DeFi, NFT and Dapps.
+Check out my CV [here](https://drive.google.com/file/d/1yMO6zKBddvJjfmFLKbxXDd91kCUUY6MS/view?usp=sharing)
 
-My major skills are blockchain-focused development. I have good experience with Blockchain, Ethereum, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
-
-Check out my CV [here](https://drive.google.com/file/d/1FwlUzi6JpQ81GFEfeOSObCTL-l-4XJd0/view?usp=sharing)
-
- <div>
-  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
 </div>
 
-### Connect with me:
+## Favorite tools and technologies ##
 
-[<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />][gmail]
-[<img align="left" alt="Techrate | Telegram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+  </tr>
+ <tr>
+      </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+      <br>Solidity
+    </td>
+        <td align="center" width="96">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyO7mY19NidiJXP9ZpgJ4emkdE68gcBZZyA&usqp=CAU" width="48" height="48" alt="Hardhat" />
+      <br>Hardhat
+    </td>
+        <td align="center" width="96">
+        <img src="https://github.com/foundry-rs/.github/raw/main/profile/logo.png" width="48" height="48" alt="Foundry" />
+      <br>Foundry
+    </td>
+ </tr>
+</table>
+<br><br>
 
-[gmail]: mailto:maikelordaz@gmail.com
-[linkedin]: https://www.linkedin.com/in/maikel-ordaz/
-<br/>
-### Languages and Tools:
+</div>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://smartcontractprogrammer.com/static/media/solidity-app.0623e708.svg"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyO7mY19NidiJXP9ZpgJ4emkdE68gcBZZyA&usqp=CAU"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="center">
 
-### My Favorites Techs:
+<a href="https://github.com/maikelordaz?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=maikelordaz&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true"  width="48%" alt="@Maikel's github-readme-stats"/></a>
+<a href="https://github.com/maikelordaz?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=maikelordaz&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Maikel's github-readme-streak-stats"/></a>
 
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Development-Hardhat-success)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Thegraph-success)
+</p>
+
+<img src="./assets/colored.png"  width="100%">
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=maikelordaz&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+</p>
+<!-- activity graph heroku-app end -->
+
+<img src="./assets/colored.png"  width="100%">
 
 
-
-![maikelordaz's Stats](https://github-readme-stats.vercel.app/api?username=maikelordaz&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![maikelordaz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maikelordaz&theme=highcontrast&hide_border=true)
-![maikelordaz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maikelordaz&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+# Reach out to me #
+<a href="mailto:maikelordaz@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="https://www.linkedin.com/in/maikel-ordaz/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="50" title="Professional profile"></a>
+<a href="https://t.me/maikelordaz"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
