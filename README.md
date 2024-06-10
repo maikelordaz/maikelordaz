@@ -8,7 +8,7 @@
 - 😉 Learning Huff and formal verification</br>
 <br/>
 
-Check out my CV [here](https://drive.google.com/file/d/1yMO6zKBddvJjfmFLKbxXDd91kCUUY6MS/view?usp=sharing)
+Check out my CV [here](https://drive.google.com/file/d/1Ks7TFWfmvIItlIG9ZxwhuhDBMN1B3j-Y/view?usp=sharing)
 
 </div>
 
